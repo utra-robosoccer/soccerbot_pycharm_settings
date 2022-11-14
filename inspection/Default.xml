@@ -7,10 +7,27 @@
   <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
     <option name="ignoredPackages">
       <value>
-        <list size="3">
+        <list size="20">
           <item index="0" class="java.lang.String" itemvalue="rospy" />
           <item index="1" class="java.lang.String" itemvalue="protobuf" />
-          <item index="2" class="java.lang.String" itemvalue="ipython" />
+          <item index="2" class="java.lang.String" itemvalue="transforms3d" />
+          <item index="3" class="java.lang.String" itemvalue="shapely" />
+          <item index="4" class="java.lang.String" itemvalue="roslibpy" />
+          <item index="5" class="java.lang.String" itemvalue="opencv-python" />
+          <item index="6" class="java.lang.String" itemvalue="pytest" />
+          <item index="7" class="java.lang.String" itemvalue="pre-commit" />
+          <item index="8" class="java.lang.String" itemvalue="timeout_decorator" />
+          <item index="9" class="java.lang.String" itemvalue="pyserial" />
+          <item index="10" class="java.lang.String" itemvalue="construct" />
+          <item index="11" class="java.lang.String" itemvalue="torchvision" />
+          <item index="12" class="java.lang.String" itemvalue="prettytable" />
+          <item index="13" class="java.lang.String" itemvalue="gluoncv" />
+          <item index="14" class="java.lang.String" itemvalue="tqdm" />
+          <item index="15" class="java.lang.String" itemvalue="vispy" />
+          <item index="16" class="java.lang.String" itemvalue="keras" />
+          <item index="17" class="java.lang.String" itemvalue="osrf-pycommon" />
+          <item index="18" class="java.lang.String" itemvalue="Pillow" />
+          <item index="19" class="java.lang.String" itemvalue="matplotlib" />
         </list>
       </value>
     </option>
